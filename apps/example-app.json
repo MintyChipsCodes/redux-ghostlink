@@ -1,7 +1,7 @@
 {
   "name": "One Example App",
   "author": "YourGitHubName",
-  "description": "Example app with Github link",
-  "url": "data:text/html;charset=utf-8,<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><style>body{font-family:sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;background:%23f6f8fa}.card{background:white;padding:2rem;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1);text-align:center}svg{width:64px;height:64px;color:%230969da}</style></head><body><div class=\"card\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/><circle cx=\"8.5\" cy=\"8.5\" r=\"1.5\"/><polyline points=\"21 15 16 10 5 21\"/></svg><p>Fork me? Fork you, @octocat!</p></div></body></html>",
+  "description": "Example app",
+  "url": "example.com",
   "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/><circle cx=\"8.5\" cy=\"8.5\" r=\"1.5\"/><polyline points=\"21 15 16 10 5 21\"/></svg>"
 }
