@@ -28,8 +28,7 @@ Your app must be a standalone HTML file. You can host it using:
 ### 3. Submission Template
 Copy and fill out this structure into `apps.json`:
 
-json:
-
+'''json
 {
   "name": "Your App Name",
   "author": "Your GitHub Name",
