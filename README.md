@@ -23,12 +23,11 @@ Your app must be a standalone HTML file. You can host it using:
 ### 2. Create a JSON file with the following format
 ```json
 {
-  "id": "unique_id_123",
   "name": "My Cool App",
   "author": "YourGitHubName",
   "description": "What your app does in one sentence.",
   "url": "https://your-username.github.io/your-app/",
-  "svg": "<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><circle cx='12' cy='12' r='10'/></svg>"
+  "svg": "<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><your svg code ></svg>"
 }
 ```
 ### 3. Fork & Upload
