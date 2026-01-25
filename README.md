@@ -20,22 +20,21 @@ Your app must be a standalone HTML file. You can host it using:
 * **JSdeliver**
 * **Vercel** or **Netlify**
 
-### 2. Fork & Edit
-1. **Fork** this repository to your own account.
-2. Open the `apps.json` file.
-3. Add a new object to the `apps` array using the template below.
-
-### 3. Submission Template
-Copy and fill out this structure into `apps.json`:
-
-'''json
+### 2. Create a JSON file with the following format
+```json
 {
-  "name": "Your App Name",
-  "author": "Your GitHub Name",
-  "description": "A short, one-sentence description of what your app does.",
-  "url": "[https://your-username.github.io/your-repo/index.html] or jsdeliver link",
-  "svg": "<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'>your svg code here</svg>"
+  "id": "unique_id_123",
+  "name": "My Cool App",
+  "author": "YourGitHubName",
+  "description": "What your app does in one sentence.",
+  "url": "https://your-username.github.io/your-app/",
+  "svg": "<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><circle cx='12' cy='12' r='10'/></svg>"
 }
+```
+### 3. Fork & Upload
 
-### 4. Open a Pull Request
-Once you've saved your changes to your fork, open a Pull Request to the main repository. After a brief security review, your app will be merged and instantly go live for all GhostLink users.
+Fork this repository.
+Navigate into the /apps folder.
+Upload your your-app-name.json file into that folder.
+Submit a Pull Request.
+Once merged, your app will automatically appear in the GhostLink Marketplace!
