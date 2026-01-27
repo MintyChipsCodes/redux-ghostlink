@@ -1,0 +1,7 @@
+{
+  "name": "symbol2image",
+  "author": "xRevan",
+  "description": "Edit and export characters as pngs.",
+  "url": "https://github.com/virtuan4-max/htmlapps/blob/main/symbol2image.html",
+  "svg": "<svg width=\"500\" height=\"500\" viewBox=\"0 0 500 500\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" stroke=\"#2c3e50\" stroke-width=\"20\" stroke-linecap=\"round\"><circle cx=\"250\" cy=\"250\" r=\"60\" fill=\"#2c3e50\"/><path d=\"M 150 200 A 120 120 0 0 1 350 200\" /><path d=\"M 150 300 A 120 120 0 0 0 350 300\" /><line x1=\"250\" y1=\"80\" x2=\"250\" y2=\"120\" /><line x1=\"250\" y1=\"380\" x2=\"250\" y2=\"420\" /></g></svg>"
+}
